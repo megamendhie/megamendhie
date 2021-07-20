@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there! I'm Mendhie 👋
+
+A Software Engineer committed to building, integrating, testing, and supporting android applications for mobile and tablet devices. Always ready to learn new tech stack and work with a goal-oriented team.
+
+🌱 I’m currently learning how to use Docker containers to build and test android apps.
+
+⚡ Outside tech, I enjoy reading columns, watching Agadmator's Chess Channel on YouTube, and listening to good Afrobeat music.
 
 <!--
 **megamendhie/megamendhie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
