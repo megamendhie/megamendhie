@@ -1,8 +1,8 @@
 ### Hi there! I'm Mendhie 👋
 
-I'm a Software Engineer. I develop, test, publish and maintain android apps.
+I'm a Software Engineer. I develop, test, publish and maintain native Android apps.
 
-🌱 I’m currently learning backend development with Nodejs.
+🌱 Also learning backend development with Nodejs.
 
 ⚡ Outside tech, I enjoy reading blog posts, watching Agadmator's YouTube channel, and listening to Afrobeat music.
 
